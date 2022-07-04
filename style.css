@@ -1,0 +1,22 @@
+.note{
+    font-size: 15px;
+    color: black;
+}
+.body{
+    background-size: cover;
+}
+.btn btn-warning heading{
+    font-size: 30px;
+}
+.play_button{
+    width: 130px;
+    font-size: 25px;
+}
+.pause_button{
+    width: 130px;
+    font-size: 25px;
+}
+.Stop_button{
+    width: 130px;
+    font-size: 25px;
+}
